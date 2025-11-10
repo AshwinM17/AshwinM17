@@ -6,7 +6,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashwin Mittal.
 ===================================================================================================================================
 
-I am a third-year undergraduate at MIT Manipal in the field of Computer and Communication Engineering. I am driven to achieve excellence in my pursuits and make a positive impact🙂 through my work. Apart from my studies, I am interested in DSA, Development, AI and Cyber-Security.
+I am a fourth-year undergraduate at MIT Manipal in the field of Computer and Communication Engineering. I am driven to achieve excellence in my pursuits and make a positive impact🙂 through my work. Apart from my studies, I am interested in DSA, Development, AI and Cyber-Security.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ashwin.mittal3@gmail.com](mailto:ashwin.mittal3@gmail.com)
 * 💼  Connect with me on [LinkedIn](https://www.linkedin.com/in/ashwin-mittal03)  
