@@ -25,10 +25,9 @@ I am a fourth-year undergraduate at MIT Manipal in the field of Computer and Com
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDb" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" width="36" height="36" alt="Bash" /></a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36" height="36" alt="Tailwind CSS" /></a>
  <a href="Asp.net" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-<a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/225px-Microsoft_Azure.svg.png" width="36" height="36" alt="Tailwind CSS" /></a>
+<a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/azure-color.png" width="36" height="36" alt="Azure" /></a>
 
 </p>
 
@@ -41,5 +40,5 @@ I am a fourth-year undergraduate at MIT Manipal in the field of Computer and Com
 
 ### Stats
 <p align="center" width="100%">
- <img src="https://github-readme-stats.vercel.app/api?username=AshwinM17&show_icons=true&theme=radical" alt="Readme Image" />
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=AshwinM17&show=prs_merged,prs_merged_percentage&theme=tokyonight" alt="Readme Image" />
 </p>
